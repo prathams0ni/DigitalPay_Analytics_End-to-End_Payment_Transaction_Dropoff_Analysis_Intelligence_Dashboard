@@ -239,14 +239,19 @@ DigitalPay-Analytics/
 ```
 # 📊 Dashboard:
 <img width="1307" height="723" alt="image" src="https://github.com/user-attachments/assets/7c01ec81-571d-420b-ad81-922ff0d7b1b0" />
+
 ---
 <img width="1226" height="698" alt="image" src="https://github.com/user-attachments/assets/985ecb63-a3a0-40bf-8e65-9cad4bd269d0" />
+
 ---
 <img width="1223" height="695" alt="image" src="https://github.com/user-attachments/assets/934e634d-d27b-477e-a26c-a9ef216b476d" />
+
 ---
 <img width="1224" height="692" alt="image" src="https://github.com/user-attachments/assets/96d1f3c8-e459-4f1f-aafb-c5ac316a86e0" />
+
 ---
 <img width="1233" height="695" alt="image" src="https://github.com/user-attachments/assets/2252e073-6e73-4eda-bf1f-12198a99c65f" />
+
 ---
 
 ---
